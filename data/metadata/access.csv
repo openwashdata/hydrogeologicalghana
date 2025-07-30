@@ -1,0 +1,3 @@
+fileName,name,contentUrl,encodingFormat
+hydrogeologicalghana.csv,hydrogeologicalghana,https://raw.githubusercontent.com/openwashdata/hydrogeologicalghana/main/inst/extdata/hydrogeologicalghana.csv,csv
+hydrogeologicalghana.xlsx,hydrogeologicalghana,https://raw.githubusercontent.com/openwashdata/hydrogeologicalghana/main/inst/extdata/hydrogeologicalghana.xlsx,ooxml

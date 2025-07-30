@@ -1,0 +1,36 @@
+{
+  "@context": "https://openwashdata.org/",
+  "@type": "Dataset",
+  "name": "hydrogeologicalghana",
+  "description": "This package contains data on boreholes collected to study the hydrogeological dynamics in the greater Accra and Ashanti regions of Ghana.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "openwashdata @ Global Health Engineering, ETH Zurich",
+    "url": "https://openwashdata.org/"
+  },
+  "datePublished": "2025-07-30",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "keywords": null,
+  "distribution": {
+    "@type": "DataDownload",
+    "url": "https://raw.githubusercontent.com/openwashdata/hydrogeologicalghana/main/inst/extdata/hydrogeologicalghana.csv",
+    "contentUrl": "https://raw.githubusercontent.com/openwashdata/hydrogeologicalghana/main/inst/extdata/hydrogeologicalghana.csv",
+    "encodingFormat": "text/csv"
+  },
+  "encodingFormat": "CSV",
+  "version": "1.0",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": null
+  },
+  "temporalCoverage": {
+    "@type": "DateTime",
+    "startDate": null,
+    "endDate": null
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": [],
+    "email": []
+  }
+}
