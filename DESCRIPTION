@@ -10,8 +10,7 @@ Authors@R: c(
            comment = c(ORCID = "0009-0002-0589-2274"))
   )
 Description: This package contains data on boreholes collected to study the hydrogeological dynamics in the greater Accra and Ashanti regions of Ghana.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
