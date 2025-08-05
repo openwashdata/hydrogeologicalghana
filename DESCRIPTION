@@ -1,6 +1,6 @@
 Package: hydrogeologicalghana
 Title: Hydrogeological Dynamics Data in Ghana
-Version: 0.0.0.9000
+Version: 0.0.1
 Authors@R: c(
     person("Benedict", "Addae-Mensah", , "pkwaxy@yahoo.com", role = "aut",
            comment = c(ORCID = "0009-0003-7216-6931")),
