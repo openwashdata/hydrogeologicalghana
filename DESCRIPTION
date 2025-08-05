@@ -17,3 +17,6 @@ RoxygenNote: 7.3.2
 Depends: 
     R (>= 3.5)
 LazyData: true
+Date: 2025-08-05
+URL: https://openwashdata.github.io/hydrogeologicalghana/
+BugReports: https://github.com/openwashdata/hydrogeologicalghana/issues
