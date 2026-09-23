@@ -1,5 +1,4 @@
-
-url: https://github.com/openwashdata/hydrogeologicalghana
+url: https://openwashdata.github.io/hydrogeologicalghana/
 template:
   bootstrap: 5
   includes:
