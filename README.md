@@ -8,6 +8,7 @@
 [![License: CC BY
 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![DOI](https://zenodo.org/badge/1025562304.svg)](https://doi.org/10.5281/zenodo.16743741)
+[![R-CMD-check](https://github.com/openwashdata/hydrogeologicalghana/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openwashdata/hydrogeologicalghana/actions/workflows/R-CMD-check.yaml)
 
 <!-- badges: end -->
 
@@ -62,7 +63,7 @@ hydrogeologicalghana |>
   gt::as_raw_html()
 ```
 
-<div id="lrdfgjlodb" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="usrjbgmnrm" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   &#10;  <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
   <thead style="border-style: none;">
     <tr class="gt_col_headings" style="border-style: none; border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;">
@@ -110,8 +111,7 @@ hydrogeologicalghana |>
 <td headers="transmissivity" class="gt_row gt_right" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;" valign="middle" align="right">1.27</td>
 <td headers="aquifer_material" class="gt_row gt_left" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;" valign="middle" align="left">Gneiss</td></tr>
   </tbody>
-  &#10;  
-</table>
+  &#10;</table>
 </div>
 
 For an overview of the variable names, see the following table.
@@ -419,7 +419,7 @@ scatter_plot <- hydrogeologicalghana |>
 print(scatter_plot)
 ```
 
-<img src="man/figures/README-unnamed-chunk-8-1.png" width="100%" style="display: block; margin: auto;" />
+<img src="man/figures/README-unnamed-chunk-8-1.png" alt="" width="100%" style="display: block; margin: auto;" />
 
 ## License
 
@@ -436,8 +436,8 @@ citation("hydrogeologicalghana")
 #> 
 #>   Addae-Mensah B, Tilley E, Clavijo Daza A (2025).
 #>   "hydrogeologicalghana: Hydrogeological Dynamics Data in Ghana."
-#>   doi:10.5281/zenodo.16743742
-#>   <https://doi.org/10.5281/zenodo.16743742>,
+#>   doi:10.5281/zenodo.16743741
+#>   <https://doi.org/10.5281/zenodo.16743741>.
 #>   <https://openwashdata.github.io/hydrogeologicalghana/>.
 #> 
 #> A BibTeX entry for LaTeX users is
@@ -446,9 +446,10 @@ citation("hydrogeologicalghana")
 #>     title = {hydrogeologicalghana: Hydrogeological Dynamics Data in Ghana},
 #>     author = {Benedict Addae-Mensah and Elizabeth Tilley and Adriana {Clavijo Daza}},
 #>     year = {2025},
-#>     doi = {10.5281/zenodo.16743742},
+#>     doi = {10.5281/zenodo.16743741},
 #>     url = {https://openwashdata.github.io/hydrogeologicalghana/},
 #>     abstract = {This package contains data on boreholes collected to study the hydrogeological dynamics in the greater Accra and Ashanti regions of Ghana.},
+#>     keywords = {open data,washdata,boreholes,groundwater,hydrogeology,pumping tests,aquifers,Ghana},
 #>     version = {0.0.1},
 #>   }
 ```
