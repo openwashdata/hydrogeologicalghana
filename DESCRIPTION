@@ -17,6 +17,10 @@ RoxygenNote: 7.3.2
 Depends: 
     R (>= 3.5)
 LazyData: true
+Config/Needs/website: rmarkdown, dplyr, readr, stringr, gt, kableExtra, ggplot2
 Date: 2025-08-05
-URL: https://openwashdata.github.io/hydrogeologicalghana/
+URL: https://openwashdata.github.io/hydrogeologicalghana/, https://github.com/openwashdata/hydrogeologicalghana
 BugReports: https://github.com/openwashdata/hydrogeologicalghana/issues
+X-schema.org-keywords: open data, washdata, boreholes, groundwater, hydrogeology, pumping tests, aquifers, Ghana
+X-schema.org-spatialCoverage: Greater Accra and Ashanti regions, Ghana
+X-schema.org-temporalCoverage: 2001-01-01/2001-01-03
