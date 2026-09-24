@@ -1,15 +1,15 @@
-# --------------------------------------------
-# CITATION file created with {cffr} R package
+# ------------------------------------------------
+# CITATION.cff file created with {cffr} R package
 # See also: https://docs.ropensci.org/cffr/
-# --------------------------------------------
+# ------------------------------------------------
  
 cff-version: 1.2.0
 message: 'To cite package "hydrogeologicalghana" in publications use:'
-type: software
+type: dataset
 license: CC-BY-4.0
 title: 'hydrogeologicalghana: Hydrogeological Dynamics Data in Ghana'
 version: 0.0.1
-doi: 10.5281/zenodo.16743742
+doi: 10.5281/zenodo.16743741
 abstract: This package contains data on boreholes collected to study the hydrogeological
   dynamics in the greater Accra and Ashanti regions of Ghana.
 authors:
@@ -33,4 +33,13 @@ contact:
   given-names: Adriana
   email: aclavijo@ethz.ch
   orcid: https://orcid.org/0009-0002-0589-2274
+keywords:
+- open data
+- washdata
+- boreholes
+- groundwater
+- hydrogeology
+- pumping tests
+- aquifers
+- Ghana
 
