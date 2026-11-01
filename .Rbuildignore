@@ -9,3 +9,5 @@
 ^LICENSE\.md$
 ^CITATION\.cff$
 ^\.github$
+^_brand\.yml$
+^logos$
