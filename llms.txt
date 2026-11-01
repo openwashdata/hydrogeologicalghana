@@ -1,7 +1,5 @@
 # hydrogeologicalghana
 
-A data package published by [openwashdata](https://openwashdata.org).
-
 The goal of hydrogeologicalghana is to provide data on boreholes
 collected to study the hydrogeological dynamics in the greater Accra and
 Ashanti regions of Ghana.
@@ -138,6 +136,8 @@ Data are available as
 [CC-BY](https://github.com/openwashdata/hydrogeologicalghana/blob/main/LICENSE.md).
 
 ## Citation
+
+Published by openwashdata, <https://openwashdata.org>.
 
 Please cite this package using:
 
